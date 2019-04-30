@@ -1,3 +1,4 @@
-cfscrape
+cloudscraper
 requests
 pyinstaller
+js2py
